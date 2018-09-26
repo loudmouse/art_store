@@ -13,6 +13,9 @@ Spree.config do |config|
   # Example:
   # Uncomment to stop tracking inventory levels in the application
   # config.track_inventory_levels = false
+  config.logo = "https://artmill.blob.core.windows.net/cms/image/42992e1e0b0b4d4b8e58065529ea1e76/artmill-art-gallery-white_1.png"
+
+
 end
 
 Spree.user_class = "Spree::User"
